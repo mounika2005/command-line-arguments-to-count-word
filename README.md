@@ -11,6 +11,7 @@ Import the sys module.
 ### Step 2:
 Pass the filename as the first argument after the name of script. Open the file as sys.argv[1]
 
+
 ### Step 3:
 Read the file using read() method.
 
